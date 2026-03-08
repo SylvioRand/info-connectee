@@ -16,10 +16,10 @@ git init
 git add .
 git commit -m "Premier commit : Journal Info connectée"
 git branch -M main
-git remote add origin https://github.com/VOTRE_NOM_UTILISATEUR/info-connectee.git
+git remote add origin https://github.com/sylviorand/info-connectee.git
 git push -u origin main
 ```
-*(Remplacez `VOTRE_NOM_UTILISATEUR` par votre vrai pseudo GitHub)*.
+*(Remplacez `sylviorand` par votre vrai pseudo GitHub si besoin)*.
 
 ## 3. Configurer GitHub Pages
 1. Sur la page de votre dépôt GitHub, allez dans l'onglet **Settings** (Paramètres).
@@ -30,7 +30,7 @@ git push -u origin main
 Grâce au fichier que j'ai créé dans `.github/workflows/hugo.yml`, GitHub va automatiquement construire et publier votre site à chaque fois que vous ferez un `git push`.
 
 Votre site sera visible à l'adresse suivante :
-`https://VOTRE_NOM_UTILISATEUR.github.io/info-connectee/`
+`https://sylviorand.github.io/info-connectee/`
 
 ## 💡 Notes importantes
 - **baseURL** : J'ai configuré le déploiement pour qu'il détecte automatiquement votre URL. Vous n'avez rien à modifier dans `hugo.toml`.
