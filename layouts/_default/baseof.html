@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
+
+    <!-- CSS -->
+    {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="page-container">
+            <div class="logo-wrapper">
+                <div class="logo-dot"></div>
+                <a href="{{ .Site.BaseURL | relLangURL }}" class="site-logo">
+                    {{ .Site.Title }}
+                </a>
+            </div>
+            <p class="site-subtitle">{{ .Site.Params.ecole }}</p>
+        </div>
+    </header>
+
+    <div class="main-nav-container">
+        <button class="menu-toggle" aria-label="Menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+        <nav class="main-nav">
+            {{ range .Site.Menus.main }}
+            {{ $menu_url := .URL | relLangURL }}
+            {{ $active := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) (eq (strings.TrimSuffix "/"
+            $.RelPermalink) (strings.TrimSuffix "/" $menu_url)) }}
+
+            {{ if and (not $active) $.IsPage }}
+            {{ $slug := index (last 1 (split (strings.TrimSuffix "/" .URL) "/")) 0 }}
+            {{ range $.Params.rubriques }}
+            {{ if eq (lower .) (lower $slug) }}
+            {{ $active = true }}
+            {{ end }}
+            {{ end }}
+            {{ end }}
+
+            <a href="{{ $menu_url }}" class="{{ if $active }}active{{ end }}">{{ .Name }}</a>
+            {{ end }}
+        </nav>
+    </div>
+
+    <script>
+        document.querySelector('.menu-toggle').addEventListener('click', function () {
+            document.querySelector('.main-nav').classList.toggle('active');
+            this.classList.toggle('active');
+        });
+    </script>
+
+    <div class="page-container">
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }} — {{ .Site.Params.ecole }}</p>
+            <p class="site-credit">Site créé par <strong>Kanto Rakotozafy</strong></p>
+        </div>
+    </footer>
+</body>
+
+</html>

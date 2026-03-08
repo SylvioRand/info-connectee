@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planète on Info connectée</title>
+    <link>http://localhost:1313/info-connectee/rubriques/planete/</link>
+    <description>Recent content in Planète on Info connectée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/planete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boudain</title>
+      <link>http://localhost:1313/info-connectee/posts/azriel-article/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/azriel-article/</guid>
+      <description>laksjd fl;kja s;ldkjf alskdj flkja s;dlkjf ;lakjs d&#xA;alksjd fl;kja ;skdljf&#xA;asldkjf ;alkjs d;fklj&#xA;as&amp;rsquo;ldkjf ;lakjs d;lfkj asd </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="article-header">
+    <p class="article-meta">Section</p>
+    <h1 class="article-title">{{ .Title }}</h1>
+</div>
+
+<div class="articles-grid">
+    {{ range .Pages }}
+    <article class="article-card">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+        {{ end }}
+        <div class="article-content">
+            <p class="article-meta">
+                {{ .Date.Format "02/01/2006" }} |
+                {{ with .Params.rubriques }}
+                {{ range first 1 . }}
+                {{ . | humanize }}
+                {{ end }}
+                {{ end }}
+            </p>
+            <a href="{{ .Permalink }}" class="article-title">
+                <h3>{{ .Title }}</h3>
+            </a>
+            <p>{{ .Description | truncate 150 }}</p>
+        </div>
+    </article>
+    {{ else }}
+    <div class="empty-state">
+        <p>Il n'y a pas encore d'articles dans cette rubrique.</p>
+        <a href="/" class="back-home">Retour à l'accueil</a>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

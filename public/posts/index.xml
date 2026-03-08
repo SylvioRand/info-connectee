@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Info connectée</title>
+    <link>http://localhost:1313/info-connectee/posts/</link>
+    <description>Recent content in Posts on Info connectée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/info-connectee/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boudain</title>
+      <link>http://localhost:1313/info-connectee/posts/azriel-article/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/azriel-article/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lancement du journal Info Connectée</title>
+      <link>http://localhost:1313/info-connectee/posts/premier-article/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/premier-article/</guid>
+      <description>Bienvenue sur Info connectée, le journal de Clairefontaine !&#xA;C&amp;rsquo;est ici que vous pourrez suivre toute l&amp;rsquo;actualité de votre école. Que vous soyez passionné par le sport, la culture ou la santé, vous trouverez des articles intéressants rédigés par et pour les élèves.&#xA;Au programme ce mois-ci : Sport : Retour sur le tournoi de basket. Culture : La visite du musée d&amp;rsquo;art moderne. Sante : Quelques conseils pour bien dormir avant les examens.</description>
+    </item>
+    <item>
+      <title>Nouveau terrain de foot inauguré</title>
+      <link>http://localhost:1313/info-connectee/posts/sport-article-2/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/sport-article-2/</guid>
+      <description>Le gymnase a fait peau neuve !&#xA;Nous sommes ravis d&amp;rsquo;annoncer que les travaux du terrain de foot sont terminés. Les élèves pourront l&amp;rsquo;utiliser dès lundi prochain pour les cours d&amp;rsquo;EPS et les activités extrascolaires.&#xA;C&amp;rsquo;est une grande amélioration pour les équipements sportifs de Clairefontaine.</description>
+    </item>
+    <item>
+      <title>Tournoi de Basket : Une victoire éclatante</title>
+      <link>http://localhost:1313/info-connectee/posts/sport-article/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/sport-article/</guid>
+      <description>Félicitations à notre équipe de basket qui a montré un esprit d&amp;rsquo;équipe incroyable !&#xA;Le match final contre l&amp;rsquo;école voisine a été serré jusqu&amp;rsquo;à la dernière minute, mais grâce à un panier décisif de notre capitaine, nous avons remporté la coupe.&#xA;Merci à tous les supporters venus encourager nos joueurs !</description>
+    </item>
+    <item>
+      <title>Conseils pour une alimentation équilibrée</title>
+      <link>http://localhost:1313/info-connectee/posts/sante-article/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/sante-article/</guid>
+      <description>Bien manger est essentiel pour réussir ses études et avoir de l&amp;rsquo;énergie.&#xA;Voici quelques conseils simples :&#xA;Ne sautez pas le petit-déjeuner. Mangez des fruits et légumes à chaque repas. Hydratez-vous régulièrement avec de l&amp;rsquo;eau. Retrouvez plus de conseils dans l&amp;rsquo;infographie affichée à la cantine !</description>
+    </item>
+    <item>
+      <title>Exposition d&#39;Art Moderne à la bibliothèque</title>
+      <link>http://localhost:1313/info-connectee/posts/culture-article/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/culture-article/</guid>
+      <description>Venez découvrir les talents artistiques de nos élèves !&#xA;L&amp;rsquo;exposition présente des peintures, des sculptures et des collages originaux. C&amp;rsquo;est une occasion unique d&amp;rsquo;apprécier la créativité et le travail acharné de nos camarades.&#xA;L&amp;rsquo;entrée est libre pour tous les élèves et le personnel de l&amp;rsquo;école.</description>
+    </item>
+    <item>
+      <title>Club Solidarité : Collecte de vêtements</title>
+      <link>http://localhost:1313/info-connectee/posts/social-article/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/social-article/</guid>
+      <description>Nous avons tous des vêtements que nous ne portons plus. Pourquoi ne pas les donner à ceux qui en ont besoin ?&#xA;La collecte se déroulera dans le hall d&amp;rsquo;entrée toute la semaine prochaine. Merci de n&amp;rsquo;apporter que des vêtements propres et en bon état.&#xA;Ensemble, faisons un geste pour notre communauté !</description>
+    </item>
+  </channel>
+</rss>

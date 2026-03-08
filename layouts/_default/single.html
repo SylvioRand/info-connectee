@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article class="single-article">
+    <header class="single-header">
+        <p class="article-meta">
+            <span class="category">{{ with .Params.rubriques }}{{ range first 1 . }}{{ . | humanize }}{{ end }}{{ end
+                }}</span>
+            <span>Publié le {{ .Date.Format "02 January 2006" }}</span>
+        </p>
+        <h1 class="single-title">{{ .Title }}</h1>
+        <p class="article-description" style="font-size: 1.25rem; margin-bottom: 1.5rem; color: var(--text-secondary);">
+            {{ .Description }}</p>
+    </header>
+
+    {{ if .Params.image }}
+    <div class="img-container" style="aspect-ratio: auto; margin-bottom: 2rem;">
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy"
+            style="width: 100%; border-bottom: 1px solid var(--border-light);">
+    </div>
+    {{ end }}
+
+    <div class="single-content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}

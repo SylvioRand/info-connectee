@@ -1,0 +1,50 @@
+baseURL = 'https://ton-pseudo.github.io/info-connectee/'
+languageCode = 'fr-fr'
+title = 'Info connectée'
+
+# Configuration des rubriques (Taxonomies)
+[taxonomies]
+    rubrique = "rubriques"
+
+# Variables personnalisées pour ton amie et l'école
+[params]
+    ecole = "CM1 B - La Clairefontaine 2025-2026"
+    description = "Le journal numérique de l'école Clairefontaine"
+
+# Configuration du menu (Navbar)
+[[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Actualité"
+    url = "/rubriques/actualite/"
+    weight = 2
+[[menu.main]]
+    name = "Sport"
+    url = "/rubriques/sport/"
+    weight = 3
+[[menu.main]]
+    name = "Santé"
+    url = "/rubriques/sante/"
+    weight = 4
+[[menu.main]]
+    name = "Culture"
+    url = "/rubriques/culture/"
+    weight = 5
+[[menu.main]]
+    name = "Social"
+    url = "/rubriques/social/"
+    weight = 6
+[[menu.main]]
+    name = "Planète"
+    url = "/rubriques/planete/"
+    weight = 7
+[[menu.main]]
+    name = "Économie"
+    url = "/rubriques/economie/"
+    weight = 8
+[[menu.main]]
+    name = "Sciences"
+    url = "/rubriques/sciences/"
+    weight = 9
