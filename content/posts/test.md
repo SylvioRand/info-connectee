@@ -1,6 +1,6 @@
 ---
 title: "Titre de votre article"
-date: 2026-03-23
+date: 2026-03-21
 rubriques: ["sport"]
 description: "Un court résumé de l'article qui apparaîtra sur la page d'accueil."
 image: "images/zumba.jpg"
