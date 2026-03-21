@@ -21,6 +21,6 @@ Le concours s'est déroulé en plusieurs étapes éliminatoires, mettant à l'é
 ### Les grands vainqueurs de la CM1B
 Au terme de ces affrontements, ce sont finalement **Azriel et Aïcha** qui se sont illustrés comme les grands vainqueurs pour la classe de **CM1B**. 
 
-Félicitations à eux, ainsi qu'à tous les participants des classes de CM1 et CM2 pour ce bel événement littéraire !
+Bravo à tous les participants pour ce bel événement littéraire !
 
 *- D'après les récits d'Anaëlle et Zara*
