@@ -14,9 +14,7 @@
             <p class="article-meta">
                 {{ .Date.Format "02/01/2006" }} |
                 {{ with .Params.rubriques }}
-                {{ range first 1 . }}
-                {{ . | humanize }}
-                {{ end }}
+                {{ range $i, $r := . }}{{ if $i }}, {{ end }}{{ $r | humanize }}{{ end }}
                 {{ end }}
             </p>
             <a href="{{ .Permalink }}" class="article-title">
