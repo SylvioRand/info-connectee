@@ -23,4 +23,4 @@ Au terme de ces affrontements, ce sont finalement **Azriel et Aïcha** qui se so
 
 Bravo à tous les participants pour ce bel événement littéraire !
 
-*- D'après les récits d'Anaëlle et Zara*
+*- Par Anaëlle RAOELIARISON et Zara ANDRIANAlISOA*

@@ -16,4 +16,4 @@ Au programme de cette épreuve sportive, plusieurs ateliers exigeants ont été 
 
 Lors de cet événement, j'ai été choisie pour représenter ma classe, et j'ai donné le meilleur de moi-même pour décrocher la **médaille de bronze** !
 
-*- Par Julie*
+*- Par Julie RASOLOFOSON*

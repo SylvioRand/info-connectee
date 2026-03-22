@@ -14,3 +14,5 @@ Le **jeudi 5 février 2026**, un moment fort de ce projet a eu lieu : les deux c
 Les discussions ont tourné autour de leur grand thème de l'année : **l'alimentation** et les **Objectifs de Développement Durable (ODD)**. Les élèves ont partagé leurs idées, leurs habitudes alimentaires, et leurs solutions pour consommer de manière plus responsable, tout en découvrant la culture de leurs camarades libanais.
 
 Une expérience très enrichissante qui prouve que l'on peut réfléchir ensemble à notre avenir commun, même à distance. Bravo à tous nos apprentis éco-citoyens !
+
+*- Par Nolan CHEUNG*

@@ -15,4 +15,4 @@ En plus de cette observation gourmande, la classe a également eu l'occasion de 
 
 Globalement, la visite s'est vraiment très bien passée et restera un beau souvenir pour tous les élèves.
 
-*- Zara*
+*- Par Zara ANDRIANALISOA*
