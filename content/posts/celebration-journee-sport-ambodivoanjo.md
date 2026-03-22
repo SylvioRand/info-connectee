@@ -13,4 +13,4 @@ Pour l'occasion, les élèves portaient une tenue uniforme : **tee-shirt rouge e
 
 Bravo à tous les élèves pour leur énergie communicative !
 
-*- Par Layanah et Inès*
+*- Par Layanah, Inès et Fatima*
