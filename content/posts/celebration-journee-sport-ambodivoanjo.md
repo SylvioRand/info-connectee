@@ -1,6 +1,6 @@
 ---
 title: "Zumba Géant pour la Journée Nationale du Sport à Ambodivoanjo"
-date: 2026-03-21
+date: 2026-03-23
 rubriques: ["sport"]
 description: "Les quatre classes de CM se sont réunies à Ambodivoanjo pour célébrer le sport avec un zumba géant le 17 septembre dernier."
 image: "images/zumba.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Rencontre internationale : ADN Demain Durable Junior"
-date: 2026-03-22
+date: 2026-03-23
 rubriques: ["planete", "social"]
 description: "La classe de CM1B a eu la chance de rencontrer une classe de CM1 du Liban en visioconférence pour échanger sur l'alimentation et les Objectifs de Développement Durable."
 image: "images/ODD.png"

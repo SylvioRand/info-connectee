@@ -1,6 +1,6 @@
 ---
 title: "Visite à la ferme de Laniera"
-date: 2026-03-22
+date: 2026-03-23
 rubriques: ["planete", "sciences"]
 description: "La classe de CM1B a visité la ferme de Laniera pour découvrir la fabrication du yaourt et observer les vaches de près."
 image: "images/ferme.jpg"

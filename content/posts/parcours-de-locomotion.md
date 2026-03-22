@@ -1,6 +1,6 @@
 ---
 title: "Parcours de locomotion"
-date: 2026-03-21
+date: 2026-03-23
 rubriques: ["sport"]
 description: "Retour sur le parcours de locomotion du 14 janvier 2026. Félicitations à Julie qui a remporté une médaille de bronze !"
 image: "images/locomotion.jpg"
