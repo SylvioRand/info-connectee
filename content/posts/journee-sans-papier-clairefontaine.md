@@ -11,7 +11,7 @@ Les élèves de l'école La Clairefontaine ont décidé de faire une journée ex
 
 Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres. Si on en utilise trop, cela détruit nos forêts. Il fallait donc apprendre à gaspiller moins pour protéger la nature.
 
-Pour travailler, nous n'avons utilisé que des outils ne contenant pas de papier : l'oral, l'ardoise, le projecteur, l'ordinateur ou encore Cla tablette électronique. De même, la journée a été plus drôle ou plus "fun", comme on dit. Nous avons travaillé les matières prévues, mais complètement différemment ! 
+Pour travailler, nous n'avons utilisé que des outils ne contenant pas de papier : l'oral, l'ardoise, le projecteur, l'ordinateur ou encore la tablette électronique. De même, la journée a été plus drôle ou plus "fun", comme on dit. Nous avons travaillé les matières prévues, mais complètement différemment ! 
 
 Aujourd’hui, comme tous les ans, nous célébrons la fête préférée des arbres. Ce geste permet d’améliorer leur vie et la nôtre. Mais ce n'était pas tout ! Durant cette même journée, quelques parents et des invités sont venus présenter leur travail. Les éco-délégués ont présenté ce qui s’est passé pendant leur sortie.
 
