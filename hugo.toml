@@ -1,6 +1,7 @@
 baseURL = 'https://sylviorand.github.io/info-connectee/'
 languageCode = 'fr-fr'
 title = 'Info connectée'
+timeZone = 'Indian/Antananarivo'
 
 # Configuration des rubriques (Taxonomies)
 [taxonomies]
