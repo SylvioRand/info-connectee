@@ -2,60 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Info connectée</title>
-    <link>http://localhost:1313/info-connectee/posts/</link>
+    <link>https://sylviorand.github.io/info-connectee/posts/</link>
     <description>Recent content in Posts on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/info-connectee/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://sylviorand.github.io/info-connectee/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>boudain</title>
-      <link>http://localhost:1313/info-connectee/posts/azriel-article/</link>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/azriel-article/</guid>
-      <description>laksjd fl;kja s;ldkjf alskdj flkja s;dlkjf ;lakjs d&#xA;alksjd fl;kja ;skdljf&#xA;asldkjf ;alkjs d;fklj&#xA;as&amp;rsquo;ldkjf ;lakjs d;lfkj asd </description>
+      <title>La Semaine des Mathématiques : Faire les maths autrement</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/semaine-des-mathematiques/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/semaine-des-mathematiques/</guid>
+      <description>Du lundi 16 au vendredi 20 mars, notre école a célébré la grande Semaine des Mathématiques. Pour cette édition, le mot d&amp;rsquo;ordre était clair et enthousiasmant : « Faire les maths autrement ».&#xA;L&amp;rsquo;objectif principal de cet événement était de sortir du cadre scolaire habituel afin de montrer aux élèves une autre facette de cette matière. Fini le simple calcul sur cahier, place à l&amp;rsquo;expérimentation et au jeu !&#xA;Une très belle semaine qui laissera d&amp;rsquo;excellents souvenirs.</description>
     </item>
     <item>
-      <title>Lancement du journal Info Connectée</title>
-      <link>http://localhost:1313/info-connectee/posts/premier-article/</link>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/premier-article/</guid>
-      <description>Bienvenue sur Info connectée, le journal de Clairefontaine !&#xA;C&amp;rsquo;est ici que vous pourrez suivre toute l&amp;rsquo;actualité de votre école. Que vous soyez passionné par le sport, la culture ou la santé, vous trouverez des articles intéressants rédigés par et pour les élèves.&#xA;Au programme ce mois-ci : Sport : Retour sur le tournoi de basket. Culture : La visite du musée d&amp;rsquo;art moderne. Sante : Quelques conseils pour bien dormir avant les examens.</description>
+      <title>Le Concours de Lecture AEFE à l&#39;École Clairefontaine</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</guid>
+      <description>Cette année, l’AEFE a organisé un grand concours de lecture pour les élèves de CM1 et CM2.&#xA;Une préparation rigoureuse Pour se préparer à cet événement, les élèves ont suivi des entraînements intensifs en cours de BCD et même en visioconférence.&#xA;Un parcours de sélection exigeant Le concours s&amp;rsquo;est déroulé en plusieurs étapes éliminatoires, mettant à l&amp;rsquo;épreuve la persévérance des participants :&#xA;Première épreuve : Tous les élèves des classes concernées participaient.</description>
     </item>
     <item>
-      <title>Nouveau terrain de foot inauguré</title>
-      <link>http://localhost:1313/info-connectee/posts/sport-article-2/</link>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/sport-article-2/</guid>
-      <description>Le gymnase a fait peau neuve !&#xA;Nous sommes ravis d&amp;rsquo;annoncer que les travaux du terrain de foot sont terminés. Les élèves pourront l&amp;rsquo;utiliser dès lundi prochain pour les cours d&amp;rsquo;EPS et les activités extrascolaires.&#xA;C&amp;rsquo;est une grande amélioration pour les équipements sportifs de Clairefontaine.</description>
+      <title>Parcours de locomotion</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</guid>
+      <description>Le mercredi 14 janvier 2026, les élèves ont participé à un formidable parcours de locomotion. Pour l&amp;rsquo;occasion, ils ont enfilé des gilets colorés, chaque équipe arborant fièrement sa propre couleur.&#xA;Au programme de cette épreuve sportive, plusieurs ateliers exigeants ont été proposés :&#xA;Sauts à pieds joints Roulades Natation Lors de cet événement, j&amp;rsquo;ai été choisie pour représenter ma classe, et j&amp;rsquo;ai donné le meilleur de moi-même pour décrocher la médaille de bronze !</description>
     </item>
     <item>
-      <title>Tournoi de Basket : Une victoire éclatante</title>
-      <link>http://localhost:1313/info-connectee/posts/sport-article/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/sport-article/</guid>
-      <description>Félicitations à notre équipe de basket qui a montré un esprit d&amp;rsquo;équipe incroyable !&#xA;Le match final contre l&amp;rsquo;école voisine a été serré jusqu&amp;rsquo;à la dernière minute, mais grâce à un panier décisif de notre capitaine, nous avons remporté la coupe.&#xA;Merci à tous les supporters venus encourager nos joueurs !</description>
+      <title>PAS de papier… PLUS d’arbres à La Clairefontaine !</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</guid>
+      <description>Les élèves de l&amp;rsquo;école La Clairefontaine ont décidé de faire une journée exceptionnelle le Mardi 17 Février 2026 : une grande &amp;ldquo;Journée sans papier&amp;rdquo; !&#xA;Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres. Si on en utilise trop, cela détruit nos forêts. Il fallait donc apprendre à gaspiller moins pour protéger la nature.</description>
     </item>
     <item>
-      <title>Conseils pour une alimentation équilibrée</title>
-      <link>http://localhost:1313/info-connectee/posts/sante-article/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/sante-article/</guid>
-      <description>Bien manger est essentiel pour réussir ses études et avoir de l&amp;rsquo;énergie.&#xA;Voici quelques conseils simples :&#xA;Ne sautez pas le petit-déjeuner. Mangez des fruits et légumes à chaque repas. Hydratez-vous régulièrement avec de l&amp;rsquo;eau. Retrouvez plus de conseils dans l&amp;rsquo;infographie affichée à la cantine !</description>
+      <title>Rencontre internationale : ADN Demain Durable Junior</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</guid>
+      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence. Malgré les kilomètres qui les séparent, les élèves et les enseignants ont pu échanger en direct !&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
     </item>
     <item>
-      <title>Exposition d&#39;Art Moderne à la bibliothèque</title>
-      <link>http://localhost:1313/info-connectee/posts/culture-article/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/culture-article/</guid>
-      <description>Venez découvrir les talents artistiques de nos élèves !&#xA;L&amp;rsquo;exposition présente des peintures, des sculptures et des collages originaux. C&amp;rsquo;est une occasion unique d&amp;rsquo;apprécier la créativité et le travail acharné de nos camarades.&#xA;L&amp;rsquo;entrée est libre pour tous les élèves et le personnel de l&amp;rsquo;école.</description>
+      <title>Visite à la ferme de Laniera</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</guid>
+      <description>Le lundi 26 janvier 2026, la classe de CM1B a fait une superbe sortie scolaire : une visite à la ferme de Laniera !&#xA;Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l&amp;rsquo;activité s&amp;rsquo;est terminée par une délicieuse dégustation que tout le monde a adorée !&#xA;En plus de cette observation gourmande, la classe a également eu l&amp;rsquo;occasion de voir les vaches de très près.</description>
     </item>
     <item>
-      <title>Club Solidarité : Collecte de vêtements</title>
-      <link>http://localhost:1313/info-connectee/posts/social-article/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/social-article/</guid>
-      <description>Nous avons tous des vêtements que nous ne portons plus. Pourquoi ne pas les donner à ceux qui en ont besoin ?&#xA;La collecte se déroulera dans le hall d&amp;rsquo;entrée toute la semaine prochaine. Merci de n&amp;rsquo;apporter que des vêtements propres et en bon état.&#xA;Ensemble, faisons un geste pour notre communauté !</description>
+      <title>Zumba Géant pour la Journée Nationale du Sport à Ambodivoanjo</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</guid>
+      <description>Le 17 septembre 2025, le site d&amp;rsquo;Ambodivoanjo a vibré au rythme de la Journée Nationale du Sport. Pour marquer cet événement, les quatre classes de CM de l&amp;rsquo;école ont participé à un zumba géant mémorable.&#xA;Pour l&amp;rsquo;occasion, les élèves portaient une tenue uniforme : tee-shirt blanc et short rouge. Dans une ambiance festive et sportive, ils ont suivi les chorégraphies avec enthousiasme. Cette journée a été l&amp;rsquo;occasion de rappeler l&amp;rsquo;importance de l&amp;rsquo;activité physique pour la santé et le bien-être, tout en partageant un moment de convivialité et de cohésion entre les classes.</description>
+    </item>
+    <item>
+      <title>Expérience électricité au laboratoire</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/experience-electricite/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/experience-electricite/</guid>
+      <description>Le vendredi 13 février dernier, direction le laboratoire de l&amp;rsquo;école pour nos scientifiques en herbe !&#xA;Afin de mieux comprendre le fonctionnement de l&amp;rsquo;électricité, la classe a réalisé l&amp;rsquo;expérience du circuit électrique simple. L&amp;rsquo;objectif ? Réussir à allumer une ampoule avec seulement une pile et des fils électriques de connexion.&#xA;Une séance très pratique et enrichissante pour tous !&#xA;Par l&amp;rsquo;équipe de la rédaction</description>
     </item>
   </channel>
 </rss>

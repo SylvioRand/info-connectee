@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santé on Info connectée</title>
-    <link>http://localhost:1313/info-connectee/rubriques/sante/</link>
+    <link>https://sylviorand.github.io/info-connectee/rubriques/sante/</link>
     <description>Recent content in Santé on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/info-connectee/rubriques/sante/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Conseils pour une alimentation équilibrée</title>
-      <link>http://localhost:1313/info-connectee/posts/sante-article/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/sante-article/</guid>
-      <description>Bien manger est essentiel pour réussir ses études et avoir de l&amp;rsquo;énergie.&#xA;Voici quelques conseils simples :&#xA;Ne sautez pas le petit-déjeuner. Mangez des fruits et légumes à chaque repas. Hydratez-vous régulièrement avec de l&amp;rsquo;eau. Retrouvez plus de conseils dans l&amp;rsquo;infographie affichée à la cantine !</description>
-    </item>
+    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/sante/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

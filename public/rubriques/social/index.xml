@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social on Info connectée</title>
-    <link>http://localhost:1313/info-connectee/rubriques/social/</link>
+    <link>https://sylviorand.github.io/info-connectee/rubriques/social/</link>
     <description>Recent content in Social on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/info-connectee/rubriques/social/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/social/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Club Solidarité : Collecte de vêtements</title>
-      <link>http://localhost:1313/info-connectee/posts/social-article/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/social-article/</guid>
-      <description>Nous avons tous des vêtements que nous ne portons plus. Pourquoi ne pas les donner à ceux qui en ont besoin ?&#xA;La collecte se déroulera dans le hall d&amp;rsquo;entrée toute la semaine prochaine. Merci de n&amp;rsquo;apporter que des vêtements propres et en bon état.&#xA;Ensemble, faisons un geste pour notre communauté !</description>
+      <title>Rencontre internationale : ADN Demain Durable Junior</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</guid>
+      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence. Malgré les kilomètres qui les séparent, les élèves et les enseignants ont pu échanger en direct !&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
     </item>
   </channel>
 </rss>

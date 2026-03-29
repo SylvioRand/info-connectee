@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actualité on Info connectée</title>
-    <link>http://localhost:1313/info-connectee/rubriques/actualite/</link>
+    <link>https://sylviorand.github.io/info-connectee/rubriques/actualite/</link>
     <description>Recent content in Actualité on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/info-connectee/rubriques/actualite/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lancement du journal Info Connectée</title>
-      <link>http://localhost:1313/info-connectee/posts/premier-article/</link>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/premier-article/</guid>
-      <description>Bienvenue sur Info connectée, le journal de Clairefontaine !&#xA;C&amp;rsquo;est ici que vous pourrez suivre toute l&amp;rsquo;actualité de votre école. Que vous soyez passionné par le sport, la culture ou la santé, vous trouverez des articles intéressants rédigés par et pour les élèves.&#xA;Au programme ce mois-ci : Sport : Retour sur le tournoi de basket. Culture : La visite du musée d&amp;rsquo;art moderne. Sante : Quelques conseils pour bien dormir avant les examens.</description>
-    </item>
+    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/actualite/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

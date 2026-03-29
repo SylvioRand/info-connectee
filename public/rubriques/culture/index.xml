@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on Info connectée</title>
-    <link>http://localhost:1313/info-connectee/rubriques/culture/</link>
+    <link>https://sylviorand.github.io/info-connectee/rubriques/culture/</link>
     <description>Recent content in Culture on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/info-connectee/rubriques/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exposition d&#39;Art Moderne à la bibliothèque</title>
-      <link>http://localhost:1313/info-connectee/posts/culture-article/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info-connectee/posts/culture-article/</guid>
-      <description>Venez découvrir les talents artistiques de nos élèves !&#xA;L&amp;rsquo;exposition présente des peintures, des sculptures et des collages originaux. C&amp;rsquo;est une occasion unique d&amp;rsquo;apprécier la créativité et le travail acharné de nos camarades.&#xA;L&amp;rsquo;entrée est libre pour tous les élèves et le personnel de l&amp;rsquo;école.</description>
+      <title>Le Concours de Lecture AEFE à l&#39;École Clairefontaine</title>
+      <link>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</guid>
+      <description>Cette année, l’AEFE a organisé un grand concours de lecture pour les élèves de CM1 et CM2.&#xA;Une préparation rigoureuse Pour se préparer à cet événement, les élèves ont suivi des entraînements intensifs en cours de BCD et même en visioconférence.&#xA;Un parcours de sélection exigeant Le concours s&amp;rsquo;est déroulé en plusieurs étapes éliminatoires, mettant à l&amp;rsquo;épreuve la persévérance des participants :&#xA;Première épreuve : Tous les élèves des classes concernées participaient.</description>
     </item>
   </channel>
 </rss>
