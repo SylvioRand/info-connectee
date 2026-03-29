@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planète on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/rubriques/planete/</link>
+    <link>http://localhost:1313/info-connectee/rubriques/planete/</link>
     <description>Recent content in Planète on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/planete/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/planete/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PAS de papier… PLUS d’arbres à La Clairefontaine !</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</link>
+      <link>http://localhost:1313/info-connectee/posts/journee-sans-papier-clairefontaine/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</guid>
-      <description>Les élèves de l&amp;rsquo;école La Clairefontaine ont décidé de faire une journée exceptionnelle le Mardi 17 Février 2026 : une grande &amp;ldquo;Journée sans papier&amp;rdquo; !&#xA;Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres. Si on en utilise trop, cela détruit nos forêts. Il fallait donc apprendre à gaspiller moins pour protéger la nature.</description>
+      <guid>http://localhost:1313/info-connectee/posts/journee-sans-papier-clairefontaine/</guid>
+      <description>Les élèves de l&amp;rsquo;école La Clairefontaine ont décidé de faire une journée exceptionnelle le Mardi 17 Février 2026 : une grande &amp;ldquo;Journée sans papier&amp;rdquo; !&#xA;Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres.&#xA;Pour travailler, nous n&amp;rsquo;avons utilisé que des outils ne contenant pas de papier : l&amp;rsquo;oral, l&amp;rsquo;ardoise, le projecteur, l&amp;rsquo;ordinateur ou encore la tablette électronique.</description>
     </item>
     <item>
       <title>Rencontre internationale : ADN Demain Durable Junior</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</link>
+      <link>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</guid>
-      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence. Malgré les kilomètres qui les séparent, les élèves et les enseignants ont pu échanger en direct !&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
+      <guid>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</guid>
+      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence.&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
     </item>
     <item>
       <title>Visite à la ferme de Laniera</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</link>
+      <link>http://localhost:1313/info-connectee/posts/visite-ferme-laniera/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</guid>
-      <description>Le lundi 26 janvier 2026, la classe de CM1B a fait une superbe sortie scolaire : une visite à la ferme de Laniera !&#xA;Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l&amp;rsquo;activité s&amp;rsquo;est terminée par une délicieuse dégustation que tout le monde a adorée !&#xA;En plus de cette observation gourmande, la classe a également eu l&amp;rsquo;occasion de voir les vaches de très près.</description>
+      <guid>http://localhost:1313/info-connectee/posts/visite-ferme-laniera/</guid>
+      <description>Le lundi 26 janvier 2026, toute les classes de CM1 ont fait une superbe sortie scolaire : une visite à la ferme de Laniera !&#xA;Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l&amp;rsquo;activité s&amp;rsquo;est terminée par une délicieuse dégustation que tout le monde a adorée !&#xA;En plus de cette observation gourmande, la classe a également eu l&amp;rsquo;occasion de voir les vaches de très près.</description>
     </item>
   </channel>
 </rss>

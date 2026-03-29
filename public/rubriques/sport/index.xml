@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sport on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/rubriques/sport/</link>
+    <link>http://localhost:1313/info-connectee/rubriques/sport/</link>
     <description>Recent content in Sport on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/sport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/sport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parcours de locomotion</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</link>
+      <link>http://localhost:1313/info-connectee/posts/parcours-de-locomotion/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/parcours-de-locomotion/</guid>
       <description>Le mercredi 14 janvier 2026, les élèves ont participé à un formidable parcours de locomotion. Pour l&amp;rsquo;occasion, ils ont enfilé des gilets colorés, chaque équipe arborant fièrement sa propre couleur.&#xA;Au programme de cette épreuve sportive, plusieurs ateliers exigeants ont été proposés :&#xA;Sauts à pieds joints Roulades Natation Lors de cet événement, j&amp;rsquo;ai été choisie pour représenter ma classe, et j&amp;rsquo;ai donné le meilleur de moi-même pour décrocher la médaille de bronze !</description>
     </item>
     <item>
       <title>Zumba Géant pour la Journée Nationale du Sport à Ambodivoanjo</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</link>
+      <link>http://localhost:1313/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</guid>
       <description>Le 17 septembre 2025, le site d&amp;rsquo;Ambodivoanjo a vibré au rythme de la Journée Nationale du Sport. Pour marquer cet événement, les quatre classes de CM de l&amp;rsquo;école ont participé à un zumba géant mémorable.&#xA;Pour l&amp;rsquo;occasion, les élèves portaient une tenue uniforme : tee-shirt blanc et short rouge. Dans une ambiance festive et sportive, ils ont suivi les chorégraphies avec enthousiasme. Cette journée a été l&amp;rsquo;occasion de rappeler l&amp;rsquo;importance de l&amp;rsquo;activité physique pour la santé et le bien-être, tout en partageant un moment de convivialité et de cohésion entre les classes.</description>
     </item>
   </channel>

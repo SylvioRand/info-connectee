@@ -2,66 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/posts/</link>
+    <link>http://localhost:1313/info-connectee/posts/</link>
     <description>Recent content in Posts on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://sylviorand.github.io/info-connectee/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info-connectee/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Célébration de la semaine de la langue française et de la francophonie</title>
+      <link>http://localhost:1313/info-connectee/posts/celebration-semaine-francophonie/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/celebration-semaine-francophonie/</guid>
+      <description>Dans le cadre de la Semaine de la langue française et de la francophonie, les élèves des sites d&amp;rsquo;Ivandry et d&amp;rsquo;Ambodivoanjo se sont réunis pour une célébration haute en couleurs.&#xA;Le thème de cette année, &amp;ldquo;Génération Z, génération paix&amp;rdquo;, a été au cœur de cette rencontre fraternelle. Pour marquer l&amp;rsquo;événement, les élèves ont préparé et présenté de magnifiques spectacles mêlant chants et danses, témoignant de leur dynamisme et de leur attachement aux valeurs de la francophonie.</description>
+    </item>
     <item>
       <title>La Semaine des Mathématiques : Faire les maths autrement</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/semaine-des-mathematiques/</link>
+      <link>http://localhost:1313/info-connectee/posts/semaine-des-mathematiques/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/semaine-des-mathematiques/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/semaine-des-mathematiques/</guid>
       <description>Du lundi 16 au vendredi 20 mars, notre école a célébré la grande Semaine des Mathématiques. Pour cette édition, le mot d&amp;rsquo;ordre était clair et enthousiasmant : « Faire les maths autrement ».&#xA;L&amp;rsquo;objectif principal de cet événement était de sortir du cadre scolaire habituel afin de montrer aux élèves une autre facette de cette matière. Fini le simple calcul sur cahier, place à l&amp;rsquo;expérimentation et au jeu !&#xA;Une très belle semaine qui laissera d&amp;rsquo;excellents souvenirs.</description>
     </item>
     <item>
-      <title>Le Concours de Lecture AEFE à l&#39;École Clairefontaine</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</link>
+      <title>Fankalazana ny Taom-baovao Malagasy 2026</title>
+      <link>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</guid>
+      <description>Ny 16 Martsa lasa teo dia nankalaza ny Taom-baovao Malagasy ireo mpianatra ao amin&amp;rsquo;ny kilasy faha efatra sy faha dimy tao Ambodivoanjo.&#xA;Nanao fitafy Malagasy ireo ankizy sy ireo mpampianatra. Nozaraina aninkotrana sy vatomamy Malagasy ireo ankizy.&#xA;Niara nikorana teo ampilalaovana kilalao Malagasy sy nandihy ny rehetra.&#xA;Ny ekipa mpanoratra.</description>
+    </item>
+    <item>
+      <title>Le Concours de Lecture AEFE à l&#39;École Clairefontaine</title>
+      <link>http://localhost:1313/info-connectee/posts/concours-lecture-clairefontaine/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/concours-lecture-clairefontaine/</guid>
       <description>Cette année, l’AEFE a organisé un grand concours de lecture pour les élèves de CM1 et CM2.&#xA;Une préparation rigoureuse Pour se préparer à cet événement, les élèves ont suivi des entraînements intensifs en cours de BCD et même en visioconférence.&#xA;Un parcours de sélection exigeant Le concours s&amp;rsquo;est déroulé en plusieurs étapes éliminatoires, mettant à l&amp;rsquo;épreuve la persévérance des participants :&#xA;Première épreuve : Tous les élèves des classes concernées participaient.</description>
     </item>
     <item>
       <title>Parcours de locomotion</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</link>
+      <link>http://localhost:1313/info-connectee/posts/parcours-de-locomotion/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/parcours-de-locomotion/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/parcours-de-locomotion/</guid>
       <description>Le mercredi 14 janvier 2026, les élèves ont participé à un formidable parcours de locomotion. Pour l&amp;rsquo;occasion, ils ont enfilé des gilets colorés, chaque équipe arborant fièrement sa propre couleur.&#xA;Au programme de cette épreuve sportive, plusieurs ateliers exigeants ont été proposés :&#xA;Sauts à pieds joints Roulades Natation Lors de cet événement, j&amp;rsquo;ai été choisie pour représenter ma classe, et j&amp;rsquo;ai donné le meilleur de moi-même pour décrocher la médaille de bronze !</description>
     </item>
     <item>
       <title>PAS de papier… PLUS d’arbres à La Clairefontaine !</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</link>
+      <link>http://localhost:1313/info-connectee/posts/journee-sans-papier-clairefontaine/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/journee-sans-papier-clairefontaine/</guid>
-      <description>Les élèves de l&amp;rsquo;école La Clairefontaine ont décidé de faire une journée exceptionnelle le Mardi 17 Février 2026 : une grande &amp;ldquo;Journée sans papier&amp;rdquo; !&#xA;Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres. Si on en utilise trop, cela détruit nos forêts. Il fallait donc apprendre à gaspiller moins pour protéger la nature.</description>
+      <guid>http://localhost:1313/info-connectee/posts/journee-sans-papier-clairefontaine/</guid>
+      <description>Les élèves de l&amp;rsquo;école La Clairefontaine ont décidé de faire une journée exceptionnelle le Mardi 17 Février 2026 : une grande &amp;ldquo;Journée sans papier&amp;rdquo; !&#xA;Les classes de CM1 et de CM2 ont fait un bel éco-geste pour sauver le monde et, personnellement : les arbres. En effet, le papier vient des arbres.&#xA;Pour travailler, nous n&amp;rsquo;avons utilisé que des outils ne contenant pas de papier : l&amp;rsquo;oral, l&amp;rsquo;ardoise, le projecteur, l&amp;rsquo;ordinateur ou encore la tablette électronique.</description>
     </item>
     <item>
       <title>Rencontre internationale : ADN Demain Durable Junior</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</link>
+      <link>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</guid>
-      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence. Malgré les kilomètres qui les séparent, les élèves et les enseignants ont pu échanger en direct !&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
+      <guid>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</guid>
+      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence.&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
     </item>
     <item>
       <title>Visite à la ferme de Laniera</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</link>
+      <link>http://localhost:1313/info-connectee/posts/visite-ferme-laniera/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/visite-ferme-laniera/</guid>
-      <description>Le lundi 26 janvier 2026, la classe de CM1B a fait une superbe sortie scolaire : une visite à la ferme de Laniera !&#xA;Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l&amp;rsquo;activité s&amp;rsquo;est terminée par une délicieuse dégustation que tout le monde a adorée !&#xA;En plus de cette observation gourmande, la classe a également eu l&amp;rsquo;occasion de voir les vaches de très près.</description>
+      <guid>http://localhost:1313/info-connectee/posts/visite-ferme-laniera/</guid>
+      <description>Le lundi 26 janvier 2026, toute les classes de CM1 ont fait une superbe sortie scolaire : une visite à la ferme de Laniera !&#xA;Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l&amp;rsquo;activité s&amp;rsquo;est terminée par une délicieuse dégustation que tout le monde a adorée !&#xA;En plus de cette observation gourmande, la classe a également eu l&amp;rsquo;occasion de voir les vaches de très près.</description>
     </item>
     <item>
       <title>Zumba Géant pour la Journée Nationale du Sport à Ambodivoanjo</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</link>
+      <link>http://localhost:1313/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/celebration-journee-sport-ambodivoanjo/</guid>
       <description>Le 17 septembre 2025, le site d&amp;rsquo;Ambodivoanjo a vibré au rythme de la Journée Nationale du Sport. Pour marquer cet événement, les quatre classes de CM de l&amp;rsquo;école ont participé à un zumba géant mémorable.&#xA;Pour l&amp;rsquo;occasion, les élèves portaient une tenue uniforme : tee-shirt blanc et short rouge. Dans une ambiance festive et sportive, ils ont suivi les chorégraphies avec enthousiasme. Cette journée a été l&amp;rsquo;occasion de rappeler l&amp;rsquo;importance de l&amp;rsquo;activité physique pour la santé et le bien-être, tout en partageant un moment de convivialité et de cohésion entre les classes.</description>
     </item>
     <item>
       <title>Expérience électricité au laboratoire</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/experience-electricite/</link>
+      <link>http://localhost:1313/info-connectee/posts/experience-electricite/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/experience-electricite/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/experience-electricite/</guid>
       <description>Le vendredi 13 février dernier, direction le laboratoire de l&amp;rsquo;école pour nos scientifiques en herbe !&#xA;Afin de mieux comprendre le fonctionnement de l&amp;rsquo;électricité, la classe a réalisé l&amp;rsquo;expérience du circuit électrique simple. L&amp;rsquo;objectif ? Réussir à allumer une ampoule avec seulement une pile et des fils électriques de connexion.&#xA;Une séance très pratique et enrichissante pour tous !&#xA;Par l&amp;rsquo;équipe de la rédaction</description>
     </item>
   </channel>

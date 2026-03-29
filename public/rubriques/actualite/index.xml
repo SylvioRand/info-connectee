@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actualité on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/rubriques/actualite/</link>
+    <link>http://localhost:1313/info-connectee/rubriques/actualite/</link>
     <description>Recent content in Actualité on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/actualite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/actualite/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -5,13 +5,13 @@ rubriques: ["planete", "sciences"]
 description: "La classe de CM1B a visité la ferme de Laniera pour découvrir la fabrication du yaourt et observer les vaches de près."
 image: "images/ferme.jpg"
 gallery:
-  - "images/ferme.jpg"
-  - "images/ferme.jpg"
-  - "images/ferme.jpg"
+#   - "images/ferme.jpg"
+#   - "images/ferme.jpg"
+#   - "images/ferme.jpg"
 draft: false
 ---
 
-Le **lundi 26 janvier 2026**, la classe de CM1B a fait une superbe sortie scolaire : une visite à la ferme de Laniera !
+Le **lundi 26 janvier 2026**, toute les classes de CM1 ont fait une superbe sortie scolaire : une visite à la ferme de Laniera !
 
 Durant cette passionnante excursion, les élèves ont pu observer le processus de fabrication du yaourt, une démonstration très instructive. Et bien sûr, l'activité s'est terminée par une délicieuse dégustation que tout le monde a adorée !
 

@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/rubriques/culture/</link>
+    <link>http://localhost:1313/info-connectee/rubriques/culture/</link>
     <description>Recent content in Culture on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Célébration de la semaine de la langue française et de la francophonie</title>
+      <link>http://localhost:1313/info-connectee/posts/celebration-semaine-francophonie/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/celebration-semaine-francophonie/</guid>
+      <description>Dans le cadre de la Semaine de la langue française et de la francophonie, les élèves des sites d&amp;rsquo;Ivandry et d&amp;rsquo;Ambodivoanjo se sont réunis pour une célébration haute en couleurs.&#xA;Le thème de cette année, &amp;ldquo;Génération Z, génération paix&amp;rdquo;, a été au cœur de cette rencontre fraternelle. Pour marquer l&amp;rsquo;événement, les élèves ont préparé et présenté de magnifiques spectacles mêlant chants et danses, témoignant de leur dynamisme et de leur attachement aux valeurs de la francophonie.</description>
+    </item>
+    <item>
+      <title>Fankalazana ny Taom-baovao Malagasy 2026</title>
+      <link>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</guid>
+      <description>Ny 16 Martsa lasa teo dia nankalaza ny Taom-baovao Malagasy ireo mpianatra ao amin&amp;rsquo;ny kilasy faha efatra sy faha dimy tao Ambodivoanjo.&#xA;Nanao fitafy Malagasy ireo ankizy sy ireo mpampianatra. Nozaraina aninkotrana sy vatomamy Malagasy ireo ankizy.&#xA;Niara nikorana teo ampilalaovana kilalao Malagasy sy nandihy ny rehetra.&#xA;Ny ekipa mpanoratra.</description>
+    </item>
     <item>
       <title>Le Concours de Lecture AEFE à l&#39;École Clairefontaine</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</link>
+      <link>http://localhost:1313/info-connectee/posts/concours-lecture-clairefontaine/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/concours-lecture-clairefontaine/</guid>
+      <guid>http://localhost:1313/info-connectee/posts/concours-lecture-clairefontaine/</guid>
       <description>Cette année, l’AEFE a organisé un grand concours de lecture pour les élèves de CM1 et CM2.&#xA;Une préparation rigoureuse Pour se préparer à cet événement, les élèves ont suivi des entraînements intensifs en cours de BCD et même en visioconférence.&#xA;Un parcours de sélection exigeant Le concours s&amp;rsquo;est déroulé en plusieurs étapes éliminatoires, mettant à l&amp;rsquo;épreuve la persévérance des participants :&#xA;Première épreuve : Tous les élèves des classes concernées participaient.</description>
     </item>
   </channel>

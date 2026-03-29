@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social on Info connectée</title>
-    <link>https://sylviorand.github.io/info-connectee/rubriques/social/</link>
+    <link>http://localhost:1313/info-connectee/rubriques/social/</link>
     <description>Recent content in Social on Info connectée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://sylviorand.github.io/info-connectee/rubriques/social/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info-connectee/rubriques/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fankalazana ny Taom-baovao Malagasy 2026</title>
+      <link>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/info-connectee/posts/taombaovaomalagasy/</guid>
+      <description>Ny 16 Martsa lasa teo dia nankalaza ny Taom-baovao Malagasy ireo mpianatra ao amin&amp;rsquo;ny kilasy faha efatra sy faha dimy tao Ambodivoanjo.&#xA;Nanao fitafy Malagasy ireo ankizy sy ireo mpampianatra. Nozaraina aninkotrana sy vatomamy Malagasy ireo ankizy.&#xA;Niara nikorana teo ampilalaovana kilalao Malagasy sy nandihy ny rehetra.&#xA;Ny ekipa mpanoratra.</description>
+    </item>
     <item>
       <title>Rencontre internationale : ADN Demain Durable Junior</title>
-      <link>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</link>
+      <link>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0300</pubDate>
-      <guid>https://sylviorand.github.io/info-connectee/posts/adn-demain-durable-liban/</guid>
-      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence. Malgré les kilomètres qui les séparent, les élèves et les enseignants ont pu échanger en direct !&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
+      <guid>http://localhost:1313/info-connectee/posts/adn-demain-durable-liban/</guid>
+      <description>Dans le cadre du projet ADN Demain Durable Junior, la classe de CM1B s&amp;rsquo;est lancée dans une belle collaboration internationale avec une classe de CM1 située au Liban.&#xA;Le jeudi 5 février 2026, un moment fort de ce projet a eu lieu : les deux classes se sont rencontrées lors d&amp;rsquo;une visioconférence.&#xA;Les discussions ont tourné autour de leur grand thème de l&amp;rsquo;année : l&amp;rsquo;alimentation et les Objectifs de Développement Durable (ODD).</description>
     </item>
   </channel>
 </rss>
