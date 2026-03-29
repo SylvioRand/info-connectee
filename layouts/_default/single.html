@@ -10,7 +10,16 @@
             {{ .Description }}</p>
     </header>
 
-    {{ if .Params.image }}
+    {{ if .Params.gallery }}
+    {{ $count := len .Params.gallery }}
+    <div class="gallery-dynamic gallery-count-{{ $count }}" style="margin-bottom: 2rem;">
+        {{ range .Params.gallery }}
+        <div class="gallery-item">
+            <img src="{{ . | relURL }}" alt="Galerie de photo" loading="lazy">
+        </div>
+        {{ end }}
+    </div>
+    {{ else if .Params.image }}
     <div class="img-container" style="aspect-ratio: auto; margin-bottom: 2rem;">
         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy"
             style="width: 100%; border-bottom: 1px solid var(--border-light);">
