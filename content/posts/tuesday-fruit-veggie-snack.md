@@ -3,10 +3,10 @@ title: "Healthy Tuesdays: Fruit and Veggie Snacks"
 date: 2026-03-29
 rubriques: ["sante"]
 description: "At Clairefontaine, we promote healthy habits. Every Tuesday, students bring fruits or vegetables for their snacks."
-image: "images/journeeFruits1.jpg"
+image: "images/journeeFruits1.avif"
 gallery:
-  - "images/journeeFruits1.jpg"
-  - "images/journeeFruits2.jpg"
+  - "images/journeeFruits1.avif"
+  - "images/journeeFruits2.avif"
   
 draft: false
 ---

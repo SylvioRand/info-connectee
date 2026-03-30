@@ -3,14 +3,14 @@ title: "Expérience électricité au laboratoire"
 date: 2026-02-13
 rubriques: ["sciences"]
 description: "Les élèves de CM1 se sont mis dans la peau de véritables scientifiques en laboratoire pour découvrir les secrets de l'électricité."
-image: "images/labo1.jpg"
+image: "images/labo1.avif"
 gallery:
-  - "images/labo1.jpg"
-  - "images/labo2.jpg"
-  - "images/labo3.jpg"
-  - "images/labo4.jpg"
-  - "images/labo5.jpg"
-  - "images/labo6.jpg"
+  - "images/labo1.avif"
+  - "images/labo2.avif"
+  - "images/labo3.avif"
+  - "images/labo4.avif"
+  - "images/labo5.avif"
+  - "images/labo6.avif"
 draft: false
 ---
 

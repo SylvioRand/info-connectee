@@ -3,9 +3,9 @@ title: "PAS de papier… PLUS d’arbres à La Clairefontaine !"
 date: 2026-03-23
 rubriques: ["planete"]
 description: "Le mardi 17 février 2026, les classes primaires de La Clairefontaine ont célébré une journée sans papier : un bel éco-geste pour la nature !"
-image: "images/journeeSansPapier.jpg"
+image: "images/journeeSansPapier.avif"
 gallery:
-  - "images/journeeSansPapier.jpg"
+  - "images/journeeSansPapier.avif"
   
 draft: false
 ---

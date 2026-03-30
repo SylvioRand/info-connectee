@@ -3,12 +3,12 @@ title: "Le Concours de Lecture AEFE à l'École Clairefontaine"
 date: 2026-03-23
 rubriques: ["culture"]
 description: "Retour sur le concours de lecture organisé par l'AEFE pour les classes de CM1 et CM2 de l'école Clairefontaine. Félicitations à Azriel, Aïcha, Joshua et Maya !"
-image: "images/concoursDeLecture5.jpg"
+image: "images/concoursDeLecture5.avif"
 gallery:
-  - "images/concoursDeLecture1.jpg"
-  - "images/concoursDeLecture2.jpg"
-  - "images/concoursDeLecture3.jpg"
-  - "images/concoursDeLecture4.jpg"
+  - "images/concoursDeLecture1.avif"
+  - "images/concoursDeLecture2.avif"
+  - "images/concoursDeLecture3.avif"
+  - "images/concoursDeLecture4.avif"
   
 draft: false
 ---

@@ -15,7 +15,7 @@ title: "Titre de votre article"
 date: 2026-03-08
 rubriques: ["nom_de_la_rubrique"]
 description: "Un court résumé de l'article qui apparaîtra sur la page d'accueil."
-image: "images/nom_de_votre_image.png"
+image: "images/nom_de_votre_image.avif"
 draft: false
 ---
 
@@ -37,7 +37,7 @@ Pour que l'article apparaisse dans la bonne catégorie et soit bien surligné da
 
 ## 4. Les Images
 *   Mettez vos images dans le dossier : `static/images/`
-*   Dans l'article, indiquez simplement le chemin : `image: "images/mon-image.jpg"`
+*   Dans l'article, indiquez simplement le chemin : `image: "images/mon-image.avif"`
 
 ## 5. Astuces
 *   **Titre** : Mettez-le entre guillemets `" "`.

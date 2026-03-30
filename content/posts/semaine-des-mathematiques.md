@@ -3,11 +3,11 @@ title: "La Semaine des Mathématiques : Faire les maths autrement"
 date: 2026-03-29
 rubriques: ["sciences"]
 description: "Du 16 au 20 mars, l'école a organisé la Semaine des Mathématiques. Une belle occasion de découvrir et d'apprendre les maths sous un angle nouveau, ludique et concret."
-image: "images/semaineDesMaths1.jpg"
+image: "images/semaineDesMaths1.avif"
 gallery:
-  - "images/semaineDesMaths1.jpg"
-  - "images/semaineDesMaths4.jpg"
-  - "images/semaineDesMaths5.jpg"
+  - "images/semaineDesMaths1.avif"
+  - "images/semaineDesMaths4.avif"
+  - "images/semaineDesMaths5.avif"
 draft: false
 ---
 
