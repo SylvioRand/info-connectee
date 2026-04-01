@@ -1,8 +1,8 @@
 ---
-title: "Healthy Tuesdays: Fruit and Veggie Snacks"
+title: "Fruity Tuesday"
 date: 2026-03-29
 rubriques: ["sante"]
-description: "At Clairefontaine, we promote healthy habits. Every Tuesday, students bring fruits or vegetables for their snacks."
+description: "Every Tuesday, at Clairefontaine School, the CM classes celebrate “Fruity Tuesday”."
 image: "images/journeeFruits1.avif"
 gallery:
   - "images/journeeFruits1.avif"
@@ -11,10 +11,11 @@ gallery:
 draft: false
 ---
 
-Eating healthy is important for our growth and energy! 
+Every Tuesday, at Clairefontaine School, the CM classes celebrate “Fruity Tuesday.” On this special day, all the students bring and eat fruit for their snack instead of sweets or processed food.
 
-That is why **every Tuesday**, snack time is dedicated to **fruits and vegetables**. All students are encouraged to bring their favorite healthy treats to share or enjoy.
+This initiative was created to encourage healthier eating habits. It is also a great opportunity for them to learn more about nutrition and the importance of having a balanced diet.
 
-Let's keep up the good habits for a healthy school year!
+By organizing Fruity Tuesday, the class aims to improve the students’ overall health and well-being.
 
-*- By the Editorial Team*
+*- Zara RANALISON*
+<!--  -->
