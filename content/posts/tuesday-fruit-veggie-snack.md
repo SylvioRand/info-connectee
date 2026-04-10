@@ -17,5 +17,5 @@ This initiative was created to encourage healthier eating habits. It is also a g
 
 By organizing Fruity Tuesday, the class aims to improve the students’ overall health and well-being.
 
-*- Zara RANALISON*
+*- Zara ANDRIANALISON*
 <!--  -->

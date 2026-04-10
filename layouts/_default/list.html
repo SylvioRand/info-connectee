@@ -12,7 +12,7 @@
         {{ end }}
         <div class="article-content">
             <p class="article-meta">
-                {{ .Date.Format "02/01/2006" }} |
+                {{ .Date | time.Format "02/01/2006" }} |
                 {{ with .Params.rubriques }}
                 {{ range $i, $r := . }}{{ if $i }}, {{ end }}{{ $r | humanize }}{{ end }}
                 {{ end }}

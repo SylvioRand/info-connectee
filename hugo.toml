@@ -1,5 +1,6 @@
 baseURL = 'https://sylviorand.github.io/info-connectee/'
 languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
 title = 'Info connectée'
 timeZone = 'Indian/Antananarivo'
 
